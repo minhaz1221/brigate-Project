@@ -1228,7 +1228,7 @@ ul.subMenuItem li:hover a:before {
 
 
 /* Responsive Part */
-@media only screen and (max-width : 500px) {
+@media only screen and (max-width : 650px) {
     .phone {
         font-size: 7px;
     }
