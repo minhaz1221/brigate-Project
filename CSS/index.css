@@ -562,7 +562,7 @@ section#ideas {
     width: 100%;
 }
 .rightContant {
-    width: 100%;
+    width: 50%;
     float: right;
     overflow: hidden;
     background: #222222;
@@ -1444,6 +1444,7 @@ ul.subMenuItem li:hover a:before {
         margin-bottom: 23;
     }
     .rightContant {
+        width: 100%;
         padding: 30px 10px;
     }
 
